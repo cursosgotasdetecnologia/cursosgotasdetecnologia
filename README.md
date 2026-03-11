@@ -41,7 +41,7 @@ Ao longo de **94 aulas e ~15 horas** de conteúdo aprendi a construir uma suíte
 
 ## 🚀 Projeto em Destaque
 
-### 🎭 [app-northwind — Automação E2E com Playwright](https://github.com/SEU-USUARIO/app-northwind)
+### 🎭 [app-northwind — Automação E2E com Playwright](https://github.com/cursosgotasdetecnologia/app-northwind)
 
 > Projeto profissional desenvolvido durante a formação Gotas de Tecnologia.
 > Pipeline CI/CD configurado e rodando no GitHub Actions.
@@ -87,5 +87,5 @@ Ao longo de **94 aulas e ~15 horas** de conteúdo aprendi a construir uma suíte
 ---
 
 <div align="center">
-  <sub>Formado pela <strong><a href="https://github.com/cursosgotasdetecnologia">Gotas de Tecnologia</a></strong> — QA Engineer com Playwright 🎭</sub>
+  <sub>Formado pelo <strong><a href="https://github.com/cursosgotasdetecnologia">Gotas de Tecnologia</a></strong> — QA Engineer com Playwright 🎭</sub>
 </div>
