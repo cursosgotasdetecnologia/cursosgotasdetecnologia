@@ -46,11 +46,6 @@ Ao longo de **94 aulas e ~15 horas** de conteúdo aprendi a construir uma suíte
 > Projeto profissional desenvolvido durante a formação Gotas de Tecnologia.
 > Pipeline CI/CD configurado e rodando no GitHub Actions.
 
-![Playwright Tests](./docs/ProjetoPassed.PNG)
-
-<!-- SUBSTITUA pela imagem real do pipeline verde -->
-
-
 <!-- Caminho: GitHub > Actions > clique no run verde > tire screenshot > salve como pipeline.png -->
 [![Playwright Tests](https://github.com/cursosgotasdetecnologia/app-northwind/actions/workflows/playwright.yml/badge.svg)](https://github.com/cursosgotasdetecnologia/app-northwind/actions/workflows/playwright.yml)
 
